@@ -30,15 +30,3 @@ Quer ajudar a melhorar a aplicação? Sinta-se à vontade para contribuir! Basta
 
 **#atletasdobrasil #busca #esportes #desenvolvimentoweb**
 
-**⚠️ Aviso:** Essa aplicação ainda está em desenvolvimento e pode conter alguns bugs. 
-
----
-
-**Dica:** Para deixar o README ainda mais legal, você pode adicionar:
-
-* **Capturas de tela:** Mostre como a aplicação funciona na prática.
-* **GIFs animados:** Deixe tudo mais dinâmico e divertido.
-* **Emojis:** Use emojis para deixar o texto mais expressivo.
-* **Seção de agradecimentos:** Agradeça a quem te ajudou no projeto.
-
-**Lembre-se:** O README é a sua vitrine no GitHub. Use-o para atrair a atenção de outros desenvolvedores e mostrar o seu trabalho!
